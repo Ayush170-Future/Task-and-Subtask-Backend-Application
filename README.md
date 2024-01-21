@@ -6,7 +6,7 @@ This is a Node.js backend application for managing tasks and sub-tasks. The appl
 
 ## Features
 
-### APIs
+### Main APIs
 
 1. **Create Task**
    - Endpoint: `/api/task/create`
